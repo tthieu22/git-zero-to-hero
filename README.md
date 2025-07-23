@@ -1,6 +1,7 @@
 # Git Zero to Hero: Hướng dẫn thực hành Git
 
 Đây là một dự án đơn giản được tạo ra để giúp bạn thực hành các lệnh Git khác nhau. Dưới đây là danh sách các lệnh Git phổ biến, từ cơ bản đến nâng cao, mà bạn có thể thử nghiệm trong dự án này.
+Thực hành Git cơ bản.
 
 ---
 
